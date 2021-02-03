@@ -1,6 +1,6 @@
 'use strict';
 
-exports.mysql = {
+exports.mysqlSelector = {
   default: {
     database: null,
     connectionLimit: 5,
